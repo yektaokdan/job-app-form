@@ -1,4 +1,4 @@
-    // htmlleri degiskenlere atiyoz kurdo.
+    // htmlleri degiskenlere atiyoruz.
     const video     = document.getElementById('video');
     const canvas    = document.getElementById('canvas');
     const snap      = document.getElementById("fotocek");
